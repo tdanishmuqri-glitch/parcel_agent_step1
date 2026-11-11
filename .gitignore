@@ -1,0 +1,10 @@
+# Secrets - never upload your API key
+.env
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# ADK local session data
+.adk/
